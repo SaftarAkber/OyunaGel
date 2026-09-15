@@ -43,7 +43,7 @@ export default function GameCard({ game }: { game: OpenGame }) {
             viewBox="0 0 24 24"
             stroke-width="1.5"
             stroke="currentColor"
-            class="size-4"
+            className="size-4"
           >
             <path
               stroke-linecap="round"
@@ -66,7 +66,7 @@ export default function GameCard({ game }: { game: OpenGame }) {
               viewBox="0 0 24 24"
               stroke-width="1.5"
               stroke="currentColor"
-              class="size-4 inline-block mr-2"
+              className="size-4 inline-block mr-2"
             >
               <path
                 stroke-linecap="round"
@@ -83,7 +83,7 @@ export default function GameCard({ game }: { game: OpenGame }) {
               viewBox="0 0 24 24"
               stroke-width="1.5"
               stroke="currentColor"
-              class="size-4 inline-block mr-2"
+              className="size-4 inline-block mr-2"
             >
               <path
                 stroke-linecap="round"
