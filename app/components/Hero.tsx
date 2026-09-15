@@ -56,6 +56,7 @@ function FeaturedCard({
         </div>
       </div>
 
+
       <div className="mt-1">
         <div className="h-1.5 w-full overflow-hidden rounded-full bg-white/20">
           <div
